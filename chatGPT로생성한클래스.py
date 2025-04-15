@@ -56,4 +56,4 @@ def run_tests():
 
     print("\n===== 테스트 6: Person 리스트 출력 =====")
     people = [Person(6, "Frank"), Person(7, "Grace")]
-    for Person in people:
+  
